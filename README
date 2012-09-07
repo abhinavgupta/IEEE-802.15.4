@@ -1,0 +1,17 @@
+IEEE 802.15.4
+--------------
+
+
+
+DESCRIPTION: An open-source stack implementation of the abovw IEEE Standard. Follows the norms and standards of the ZigBee protocol.
+
+
+A more detailed documentation will be provided once the stack is completeted. A terminal based simulator object is also provided.
+
+
+Author : Abhinav Gupta
+
+
+NOTE: The stack is not a ZigBee alliance approved stack. Must not be used in commercial application, research/academic purposes only.
+
+
